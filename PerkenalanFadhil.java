@@ -1,4 +1,4 @@
-public class PerkenalanDiri{
+public class PerkenalanFadhil{
 
     public static void main (String[] args){
         System.out.println("Nama   : Fadhil Syahidan Arizki");
